@@ -6,7 +6,7 @@ namespace NestedRepitition
     {
         static void Main(string[] args)
         {
-            //Exercise 1.2
+            //Exercise 1
             
             //1. create string "name"
             //2. set string to user input
@@ -28,7 +28,7 @@ namespace NestedRepitition
             //12. print goodbye
             //13. end script
 
-            //Exercise 2.1
+            //Advanced Exercise
             int counter = 0;
             int counter2 = 0;
             int counter3 = 0;
