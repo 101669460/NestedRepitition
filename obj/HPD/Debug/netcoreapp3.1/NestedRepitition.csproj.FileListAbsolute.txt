@@ -1,0 +1,11 @@
+C:\Users\Dylan\Desktop\NestedRepitition\obj\HPD\Debug\netcoreapp3.1\NestedRepitition.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\NestedRepitition\obj\HPD\Debug\netcoreapp3.1\NestedRepitition.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\NestedRepitition\obj\HPD\Debug\netcoreapp3.1\NestedRepitition.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\NestedRepitition\bin\HPD\Debug\netcoreapp3.1\NestedRepitition.exe
+C:\Users\Dylan\Desktop\NestedRepitition\bin\HPD\Debug\netcoreapp3.1\NestedRepitition.deps.json
+C:\Users\Dylan\Desktop\NestedRepitition\bin\HPD\Debug\netcoreapp3.1\NestedRepitition.runtimeconfig.json
+C:\Users\Dylan\Desktop\NestedRepitition\bin\HPD\Debug\netcoreapp3.1\NestedRepitition.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\NestedRepitition\bin\HPD\Debug\netcoreapp3.1\NestedRepitition.dll
+C:\Users\Dylan\Desktop\NestedRepitition\bin\HPD\Debug\netcoreapp3.1\NestedRepitition.pdb
+C:\Users\Dylan\Desktop\NestedRepitition\obj\HPD\Debug\netcoreapp3.1\NestedRepitition.dll
+C:\Users\Dylan\Desktop\NestedRepitition\obj\HPD\Debug\netcoreapp3.1\NestedRepitition.pdb
